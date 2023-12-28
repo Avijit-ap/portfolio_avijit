@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/portfolio_avijit/static/css/main.733e41de.css",
-    "main.js": "/portfolio_avijit/static/js/main.1fefcab9.js",
+    "main.js": "/portfolio_avijit/static/js/main.f3b51699.js",
     "static/media/avijit.jpg": "/portfolio_avijit/static/media/avijit.56101b4f05da599a1ac6.jpg",
     "index.html": "/portfolio_avijit/index.html",
     "main.733e41de.css.map": "/portfolio_avijit/static/css/main.733e41de.css.map",
-    "main.1fefcab9.js.map": "/portfolio_avijit/static/js/main.1fefcab9.js.map"
+    "main.f3b51699.js.map": "/portfolio_avijit/static/js/main.f3b51699.js.map"
   },
   "entrypoints": [
     "static/css/main.733e41de.css",
-    "static/js/main.1fefcab9.js"
+    "static/js/main.f3b51699.js"
   ]
 }
